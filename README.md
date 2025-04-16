@@ -1,39 +1,22 @@
 ## Hello, World! 👋
 ### I'm Giovanna, a back-end developer from Brasil.
 
-<div>
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleymarchi&show_icons=true&locale=en&layout=compact" alt="wesleymarchi" />
-  </p><br />
+## Languages and Tools I use:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## Languages and Tools:
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
-  </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/git.svg" alt="Git" width="40" height="40"/> 
-  </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </a>
-
 
 <!--
 **gihwho/gihwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
