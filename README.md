@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 ### I'm Giovanna, a back-end developer from Brasil.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihwho&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihwho&layout=compact&theme=tokyonight)
 
 ## Languages and Tools I use:
 <div style="display: inline_block"><br>
