@@ -1,18 +1,22 @@
 ## Hello, World! 👋
-### I'm Giovanna, a back-end developer from Brasil.
+### I'm Giovanna Borges, a back-end developer from Brasil.
+
+- Currently improving my skills in Java and SpringBoot.
+
+- We can always do better than we did yesterday.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihwho&layout=compact&theme=tokyonight)
 
 ## Languages and Tools I use:
 <div style="display: inline_block"><br>
   <img align="center" alt="Giovanna-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Giovanna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Giovanna-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Giovanna-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Giovanna-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Giovanna-IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Giovanna-Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="Giovanna-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Giovanna-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Giovanna-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 ## To contact me:
