@@ -2,7 +2,6 @@
 ### I'm Giovanna Borges, a back-end developer from Brasil.
 
 - Currently improving my skills in Java and SpringBoot.
-
 - We can always do better than we did yesterday.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihwho&layout=compact&theme=tokyonight)
